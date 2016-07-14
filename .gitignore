@@ -1,3 +1,4 @@
+# !*.f90
 # Compiled Object files
 *.slo
 *.lo
